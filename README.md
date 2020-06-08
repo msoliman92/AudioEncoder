@@ -10,7 +10,7 @@ For Unix it's tested under ubuntu 20.04 LTS.
 For compilation open cmd in makefile path and type "make" for compilation and "make clean" to clean binaries
 
 Binaries will be in ./bin/
-win bin is AudioEncoder_WIN64.exe
+win bin is AudioEncoder_WIN64.exe 
 unix bin is AudioEncoder_UNIX
 
 Object files are generated also to validate that lame is statically compiled.
